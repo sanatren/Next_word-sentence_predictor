@@ -4,11 +4,6 @@ Built using LSTM and RNN techniques, this project predicts the next word or gene
 
 > ### 🔗 Live Demo: [whatisnext.streamlit.app](https://whatisnext.streamlit.app/)
 
----
-
-## Demo Preview
-
-Try it live → [whatisnext.streamlit.app](https://whatisnext.streamlit.app/)
 
 ---
 
